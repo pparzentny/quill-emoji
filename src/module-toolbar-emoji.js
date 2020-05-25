@@ -98,7 +98,7 @@ function fn_showEmojiPalatte(quill) {
   ];
 
   let tabElementHolder = document.createElement('ul');
-  tabToolbar.appendChild(tabElementHolder);
+  // tabToolbar.appendChild(tabElementHolder);
 
   if (document.getElementById('emoji-close-div') === null) {
     let closeDiv = document.createElement('div');
