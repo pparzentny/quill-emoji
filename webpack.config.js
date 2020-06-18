@@ -69,8 +69,8 @@ const config = {
     minimizer: [
       new UglifyJsPlugin({
         uglifyOptions: {
-          compress: {
-            warnings: false,
+          warnings: false,
+          compress: {  
             conditionals: true,
             unused: true,
             comparisons: true,

@@ -544,14 +544,6 @@ let emojiList = [
     "emoji_order": "1110"
   },
   {
-    "name": "middle_finger",
-    "unicode": "1f595",
-    "shortname": ":middle_finger:",
-    "code_decimal": "&#128405;",
-    "category": "p",
-    "emoji_order": "1116"
-  },
-  {
     "name": "point_down",
     "unicode": "1f447",
     "shortname": ":point_down:",
@@ -654,6 +646,78 @@ let emojiList = [
     "code_decimal": "&#128080;",
     "category": "p",
     "emoji_order": "1236"
+  },
+  {
+    "name": "heart",
+    "unicode": "2764",
+    "shortname": ":heart:",
+    "code_decimal": "&#10084;",
+    "category": "s",
+    "emoji_order": "1286"
+  },
+  {
+    "name": "boom",
+    "unicode": "1f4a5",
+    "shortname": ":boom:",
+    "code_decimal": "&#128165;",
+    "category": "s",
+    "emoji_order": "1305"
+  },
+  {
+    "name": "white_check_mark",
+    "unicode": "2705",
+    "shortname": ":white_check_mark:",
+    "code_decimal": "&#9989;",
+    "category": "s",
+    "emoji_order": "2078"
+  },
+  {
+    "name": "x",
+    "unicode": "274c",
+    "shortname": ":x:",
+    "code_decimal": "&#10060;",
+    "category": "s",
+    "emoji_order": "2082"
+  },
+  {
+    "name": "exclamation",
+    "unicode": "2757",
+    "shortname": ":exclamation:",
+    "code_decimal": "&#10071;",
+    "category": "s",
+    "emoji_order": "2101"
+  },
+  {
+    "name": "question",
+    "unicode": "2753",
+    "shortname": ":question:",
+    "code_decimal": "&#10067;",
+    "category": "s",
+    "emoji_order": "2098"
+  },
+  {
+    "name": "warning",
+    "unicode": "26a0",
+    "shortname": ":warning:",
+    "code_decimal": "&#9888;",
+    "category": "s",
+    "emoji_order": "1989"
+  },
+  {
+    "name": "arrow_right",
+    "unicode": "27a1",
+    "shortname": ":arrow_right:",
+    "code_decimal": "&#10145;",
+    "category": "s",
+    "emoji_order": "2004"
+  },
+  {
+    "name": "hourglass",
+    "unicode": "231b",
+    "shortname": ":hourglass:",
+    "code_decimal": "&#8987;",
+    "category": "o",
+    "emoji_order": "1680"
   }
 ];
 
