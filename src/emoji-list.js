@@ -652,7 +652,7 @@ let emojiList = [
     "unicode": "2764",
     "shortname": ":heart:",
     "code_decimal": "&#10084;",
-    "category": "s",
+    "category": "p",
     "emoji_order": "1286"
   },
   {
@@ -660,7 +660,7 @@ let emojiList = [
     "unicode": "1f4a5",
     "shortname": ":boom:",
     "code_decimal": "&#128165;",
-    "category": "s",
+    "category": "p",
     "emoji_order": "1305"
   },
   {
@@ -668,7 +668,7 @@ let emojiList = [
     "unicode": "2705",
     "shortname": ":white_check_mark:",
     "code_decimal": "&#9989;",
-    "category": "s",
+    "category": "p",
     "emoji_order": "2078"
   },
   {
@@ -676,7 +676,7 @@ let emojiList = [
     "unicode": "274c",
     "shortname": ":x:",
     "code_decimal": "&#10060;",
-    "category": "s",
+    "category": "p",
     "emoji_order": "2082"
   },
   {
@@ -684,7 +684,7 @@ let emojiList = [
     "unicode": "2757",
     "shortname": ":exclamation:",
     "code_decimal": "&#10071;",
-    "category": "s",
+    "category": "p",
     "emoji_order": "2101"
   },
   {
@@ -692,7 +692,7 @@ let emojiList = [
     "unicode": "2753",
     "shortname": ":question:",
     "code_decimal": "&#10067;",
-    "category": "s",
+    "category": "p",
     "emoji_order": "2098"
   },
   {
@@ -700,7 +700,7 @@ let emojiList = [
     "unicode": "26a0",
     "shortname": ":warning:",
     "code_decimal": "&#9888;",
-    "category": "s",
+    "category": "p",
     "emoji_order": "1989"
   },
   {
@@ -708,7 +708,7 @@ let emojiList = [
     "unicode": "27a1",
     "shortname": ":arrow_right:",
     "code_decimal": "&#10145;",
-    "category": "s",
+    "category": "p",
     "emoji_order": "2004"
   },
   {
