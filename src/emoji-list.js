@@ -716,7 +716,7 @@ let emojiList = [
     "unicode": "231b",
     "shortname": ":hourglass:",
     "code_decimal": "&#8987;",
-    "category": "o",
+    "category": "p",
     "emoji_order": "1680"
   }
 ];
